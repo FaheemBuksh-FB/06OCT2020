@@ -1,0 +1,33 @@
+*{
+}
+
+.container{
+    background-color: blue;
+}
+
+.subcontainer1{
+    background-color: blue;
+    border: none;
+    float: left;
+    width: 20%;
+    height: 300PX;
+}
+
+
+ .subcontainer2{
+    background-color: yellowgreen;
+    border: none;
+    float: left;
+    width: 20%;
+    height: 300PX;
+    margin-left: 20%;
+}
+
+
+.subcontainer3{
+    background-color: rgb(184, 45, 29);
+    border: none;
+    float: right;
+    width: 20%;
+    height: 300PX;
+} 
